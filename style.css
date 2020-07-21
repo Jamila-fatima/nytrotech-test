@@ -1,0 +1,44 @@
+.container{
+    background-image: url(images/bg-tablet-pattern.svg);
+   
+  
+}
+*{
+    font-family: 'Be Vietnam', sans-serif;
+   
+        font-family: 'Be Vietnam', sans-serif;
+
+}
+
+html{
+    box-sizing: border-box;
+    scroll-behavior: smooth !important;
+}
+html,body{
+    overflow-x: hidden;
+}
+#nav-option{
+    color:#242e52;
+    font-weight: bold;
+}
+#nav-option:hover{
+    color: #e0e1e2;
+}
+#button-nav{
+    color: white;
+    font-weight: bold;
+}
+#button-nav:hover{
+  
+}
+.email-input{
+    padding:20px;
+    padding: 7px;
+    border: none;
+    border-radius: 12px;
+}
+.go-button{
+    padding: 8px;
+    border: none;
+    border-radius: 13px;
+}
