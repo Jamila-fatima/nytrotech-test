@@ -42,3 +42,9 @@ html,body{
     border: none;
     border-radius: 13px;
 }
+ul li:hover{
+color:#f36a48;
+}
+span i:hover{
+color:#f36a48;
+}
